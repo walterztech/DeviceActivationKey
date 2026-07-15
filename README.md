@@ -1,0 +1,2 @@
+# DeviceActivationKey
+Safe dialogue login.
